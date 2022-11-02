@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-XUuTCMmW8G)
-- Live Site URL: [Github](https://viphakorn.github.io/nft-preview-card-component-main/)
+- Live Site URL: [Github Pages](https://viphakorn.github.io/fem-nft-preview-card/)
 
 ## My process
 
